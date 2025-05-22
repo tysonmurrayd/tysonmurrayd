@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My Name is Tyson Murray-Driver, a recent Computer Science graduate from the University of Victoria. I am looking to work for a company that values the communication and leadership skills that I bring to the table
 
 <!--
 **tysonmurrayd/tysonmurrayd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
