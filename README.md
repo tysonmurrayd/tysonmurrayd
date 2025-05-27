@@ -1,9 +1,16 @@
-## Hi there 👋 My Name is Tyson Murray-Driver, a recent Computer Science graduate from the University of Victoria. I am looking to work for a company that values hard-working, independent people. 
+## Hi there 👋 My Name is Tyson Murray-Driver, a recent Computer Science graduate from the University of Victoria. I am looking to work for a company that values hardworking, independent people. 
+
+
+- ⚡ I have skills in Python, HTML, C, and Bash
+- 💻 I am proficient in Windows and Linux operating systems
+- 👯 I love collaborating on projects and meeting new people in my discipline
+
 <!--
 **tysonmurrayd/tysonmurrayd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+ - ⚡ I have skills in Python, HTML, 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
