@@ -1,4 +1,4 @@
-## Hi there 👋 My Name is Tyson Murray-Driver, a recent Computer Science graduate from the University of Victoria. I am looking to work for a company that values hardworking, independent people. 
+## Hi there 👋 My Name is Tyson Murray-Driver, a recent Computer Science graduate from the University of Victoria.
 
 
 - ⚡ I have skills in Python, HTML, C, and Bash
